@@ -1,0 +1,207 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color:red;
+}
+
+h2 {
+    color: green;
+}
+
+
+
+/*Navigation Bar */
+nav {
+    position: sticky;
+    top: 0;
+    background-color: #1e293b;
+    padding: 15px 20px;
+    z-index: 1000;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    color: White;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+/* Button */
+.btn {
+    display: inline-block;
+    background-color: #2563eb;
+    color: White;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.btn:hover {
+    background-color: #1d4ed8;
+}
+
+
+/* skills */
+.skills-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100;
+    box-sizing: border-box;
+    padding: 0 20px;
+}
+
+.skill-card {
+    background-color: white;
+    padding: 20px;
+    width: 220px;
+    max-width: 100%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.skill-card h3 {
+    color: #1e293b;
+}
+
+.skill-card p {
+    font-size: 15px;
+    line-length: 1.5;
+}
+
+/* About Me */
+#about {
+    text-align: center;
+    padding: 50px 20px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#about p {
+    max-width: 800px;
+    margin: 15px auto;
+    font-size: 17px;
+    line-height: 1.7;
+}
+
+
+/* Education */
+#education {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.education-card {
+    background-color: White;
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.education-card h3 {
+    color: #1e293b;
+    margin-top: 0;
+}
+
+.education-card p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+/* Contact */
+#contact {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+#contact p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+#contact a {
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+
+    nav {
+        flex-direction: column;
+        text-align: center;
+        gap: 15px;
+    }
+
+    nav ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .hero {
+        padding: 60px 20px;
+        text-align: center;
+    }
+    .hero h1 {
+        font-size: 36px;
+    }
+
+    .hero p {
+        font-size: 16px;
+    }
+    
+    .features {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    section {
+        padding: 50px 20px;
+    }
+}
+
+/* Footer */
+footer {
+    background-color: #1e293b;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    margin-top: 30px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+}
