@@ -1,13 +1,14 @@
-Task 2 - Customer Segmentation Analysis
+## Task 2 - Customer Segmentation Analysis
 
-Internship
+## Internship
+
 Oasis Infobyte - Data Analytics Internship
 
-Objective
+## Objective
 
 Analyze online retail customer data to identify customer purchasing patterns and perform customer segmentation using Python.
 
-Work Completed
+## Work Completed
 
 - Loaded and explored the online retail dataset.
 - Cleaned and prepared the data for analysis.
@@ -15,19 +16,19 @@ Work Completed
 - Performed customer segmentation.
 - Created outputs to present the analysis results.
 
-Dataset Summary
+## Dataset Summary
 
 Dataset: Online Retail.xlsx
 
 The dataset contains online retail transaction information used for customer analysis and segmentation.
 
-Files
+## Files
 
-- "oibsip customer segmentation analysis.ipynb" – Jupyter Notebook containing the analysis code.
-- "Online retail.xlsx" – Dataset.
-- "Outputs/" – Analysis output files.
+- OIBSIP Customer Segmentation Analysis.ipynb 
+- Online retail.xlsx
+- Outputs
 
-Tools Used
+## Tools Used
 
 - Python
 - Pandas
@@ -35,6 +36,6 @@ Tools Used
 - Matplotlib
 - Jupyter Notebook
 
-Author
+## Author
 
 Chandu Priya
