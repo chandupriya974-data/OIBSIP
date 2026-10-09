@@ -1,4 +1,4 @@
-# Task 1 - EDA on Retail Sales Data
+# Task 1 - Retail Sales Exploratory Data Analysis (EDA)
 
 ## Internship
 
