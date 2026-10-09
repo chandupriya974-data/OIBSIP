@@ -1,8 +1,12 @@
-# Retail Sales EDA
+# Task 1 - EDA on Retail Sales Data
+
+## Internship
+
+Oasis Infobyte - Data Analytics Internship
 
 ## Project Overview
 
-Exploratory Data Analysis of retail sales data using Python, pandas, matplotlib, and seaborn.
+Exploratory Data Analysis of retail sales data using Python, pandas, matplotlib, seaborn and Jupyter Notebook
 
 ## Objectives
 
