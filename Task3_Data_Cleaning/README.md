@@ -29,6 +29,3 @@ Python, Pandas, NumPy, Jupyter Notebook
 ## Author
 
 Chandu Priya
-Author
-
-Chandu Priya
