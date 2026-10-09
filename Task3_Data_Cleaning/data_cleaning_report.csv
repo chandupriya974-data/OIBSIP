@@ -1,0 +1,9 @@
+Metric,Result
+Original dataset rows,15
+Cleaned dataset rows,13
+Original dataset columns,7
+Cleaned dataset columns,7
+Missing values remaining,7
+Duplicate rows remaining,0
+Data types checked,7
+Data types correct,7
