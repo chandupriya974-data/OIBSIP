@@ -41,6 +41,12 @@ The dataset contains Product Category but no individual product-name field; ther
 - Correlation heatmap
 - Quantity vs Total Amount analysis
 
+## Files
+
+- OIBSIP_Retail_Sales_EDA.ipynb
+- retail_sales_dataset.csv
+- PNG files
+
 ## Conclusion
 
 The analysis provides insights into sales trends, customer demographics, category performance, and factors affecting transaction value.
